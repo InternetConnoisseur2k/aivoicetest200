@@ -1,5 +1,5 @@
 gradio==4.7.1
-TTS@ git+https://github.com/coqui-ai/TTS.git@dev
+coqui-tts
 torch==2.5.1
 soundfile==0.12.1
 transformers==4.33.0
